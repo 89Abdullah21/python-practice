@@ -50,4 +50,7 @@ Run the code files using your preferred IDE or terminal
 Explore, modify, and learn!
 📬 Contact
 
+# NOTE
+Changes will be made time to time in this repo
+
 If you have suggestions or feedback, feel free to reach out.
